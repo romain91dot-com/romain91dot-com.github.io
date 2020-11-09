@@ -1,0 +1,16 @@
+
+h1 {
+	color: red;
+ }
+
+ em {
+	color: #e0730d;
+}
+
+.image {
+	clip: rect();
+}
+
+.sous-titre{
+	color: brown;
+}
